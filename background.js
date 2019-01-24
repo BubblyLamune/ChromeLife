@@ -93,7 +93,7 @@ function updateContacts(){
 				document.getElementsByTagName('iframe')[0].src = "about:blank";
 
 			var parser = new DOMParser();
-			var response = parser.parseFromString(xmlhttp.responseText, "text/xml");
+			var response = parser.parseFromString(xmlhttp.responseText, "text/html");
 			var tds = response.getElementsByTagName("td");
 
 			if(tds.length == 0 && localStorage.online.length > 2){

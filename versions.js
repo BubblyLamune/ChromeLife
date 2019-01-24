@@ -8,6 +8,14 @@ var distant = ["Only show desktop notifications for certain friends",
                "SL Marketplace support"];
 
 var versions = [
+    {version: "1.0.9.6",
+	    name: "Kinda Still Alive",
+	 changes: ["Removed XML MIME type now that HTML is widely supported"],
+	   fixes: [""]},
+	{version: "1.0.9.6",
+	    name: "Fork from Seemingly dead project",
+	 changes: ["My Fork"],
+	   fixes: [""]},
     {version: "1.0.9.4",
 	    name: "Chrome 28 all over again",
 	 changes: ["Removed all support for HTML desktop notifications"],
