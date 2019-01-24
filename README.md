@@ -11,4 +11,8 @@ ChromeLife uses your secondlife.com credentials to display useful at-a-glance in
  - Custom CSS
  - Map links
 
-Comments and suggestions would be much appreciated! Feel free to email dev@xd6.co, or contact Nexus Unplugged in-world.
+Originally created by dev@xd6.co, or Nexus Unplugged in-world.
+
+Lightly Maintained by Lamune or Takimi Syaka in-world.
+
+See https://chrome.google.com/webstore/detail/chromelife/fnpcolggbdbobkblmpajkgcefffmipjj for chromestore build
